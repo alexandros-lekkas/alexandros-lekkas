@@ -1,21 +1,9 @@
-### Hi there 👋
+### Hi there, my name is Alexandros Lekkas👋
+<h3 align="center">A passionate backend developer from Greece</h3>
 
-<!--
-**alexandroslekkas/alexandroslekkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="center">A passionate frontend developer from India</h3>
+- 🔭 I’m currently working on a Java Springboot backend for a shipping agent
+- 🌱 I’m currently learning Java Springboot
+- 👯 I’m looking to collaborate on frontend creation for my website
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandroslekkas&label=Profile%20views&color=0e75b6&style=flat" alt="alexandroslekkas" /> </p>
 
@@ -27,4 +15,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandroslekkas&show_icons=true&locale=en" alt="alexandroslekkas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandroslekkas&" alt="alexandroslekkas" /></p>s
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandroslekkas&" alt="alexandroslekkas" /></p>
