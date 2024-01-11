@@ -26,7 +26,7 @@ A prospective Computer Science student & Entrepeneur 💻🧑‍🎓
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=adobephotoshop)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat-square&logo=adobepremierepro)
 
-## Profile Stats 📊 <img src="https://komarev.com/ghpvc/?username=alexandroslekkas&label=Profile%20views&color=0e75b6&style=flat" alt="alexandroslekkas" /> </p>
+## Profile Stats 📊 <img src="https://komarev.com/ghpvc/?username=alexandroslekkas&label=Profile%20views&color=0e75b6&style=flat" alt="alexandroslekkas" />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandroslekkas&show_icons=true&locale=en&layout=compact" alt="alexandroslekkas" /></p><br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=alexandroslekkas&show_icons=true&locale=en" alt="alexandroslekkas" /></p><br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandroslekkas&" alt="alexandroslekkas" /></p>
