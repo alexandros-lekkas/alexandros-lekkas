@@ -8,12 +8,12 @@ A prospective Computer Science student & Entrepeneur 💻🧑‍🎓
 - ⚡ Fun fact **I think I am funny**
 
 ## Languages & Tools ⚒️
-![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-373CAB?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-073042?style=flat-square&logo=openjdk)
 ![HTML5](https://img.shields.io/badge/-HTML5-CC4B32?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1155CC?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-452C77?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-215E7C?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-227D6E?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-350B48?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-24292E?style=flat-square&logo=github)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
