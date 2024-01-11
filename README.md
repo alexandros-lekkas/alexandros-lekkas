@@ -23,3 +23,5 @@ A prospective Computer Science student & Entrepeneur 💻🧑‍🎓
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandroslekkas&show_icons=true&locale=en&layout=compact" alt="alexandroslekkas" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandroslekkas&show_icons=true&locale=en" alt="alexandroslekkas" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandroslekkas&" alt="alexandroslekkas" /></p>
