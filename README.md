@@ -22,11 +22,12 @@ A prospective Computer Science student & Entrepeneur 💻🧑‍🎓
 
 <!-- Top Languages -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandroslekkas&show_icons=true&locale=en&layout=compact" alt="alexandroslekkas" /></p><br>
-
+<br></br>
 
 <!-- Statistics -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandroslekkas&show_icons=true&locale=en" alt="alexandroslekkas" /></p><br>
-
+<br></br>
 
 <!-- Streaks -->
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandroslekkas&" alt="alexandroslekkas" /></p>
+<br></br>
