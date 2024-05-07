@@ -35,3 +35,4 @@ A prospective Computer Science student & Entrepeneur 💻🧑‍🎓
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandroslekkas&show_icons=true&locale=en&layout=compact" alt="alexandroslekkas" /></p><br>
 ### LeetCode 🧑‍💻 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AlexandrosLekkas?theme=dark&font=Archivo)
+⬆️ Currently not working right now, working on fixing this (lol)
