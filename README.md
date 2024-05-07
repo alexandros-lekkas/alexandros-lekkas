@@ -42,7 +42,7 @@ A prospective Computer Science student & Entrepeneur 💻🧑‍🎓
 ## 📊 Profile Stats <img src="https://komarev.com/ghpvc/?username=alexandroslekkas&label=Profile%20views&color=0e75b6&style=flat" alt="alexandroslekkas" />
 
 ### GitHub 🔌
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandroslekkas&show_icons=true&locale=en&layout=compact" alt="alexandroslekkas" /></p><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandroslekkas&show_icons=true&locale=en&layout=compact" alt="alexandroslekkas" />
 
 ### LeetCode 🧑‍💻
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AlexandrosLekkas?theme=dark&font=Archivo)<br>
