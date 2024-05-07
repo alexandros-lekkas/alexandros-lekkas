@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Alexandros Lekkas
-A prospective Computer Science student & Entrepeneur 💻🧑‍🎓
+UChicago Computer Science student and entrepreneur who is constantly creating and learning 💻🧑‍🎓
 
 ### Current Status 👨‍💻
 - 🏫 Still at high school, going to **UChicago for undergrad** soon though!
