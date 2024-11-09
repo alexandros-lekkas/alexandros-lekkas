@@ -2,7 +2,7 @@
 
 As a first-year Computer Science student at the University of Chicago, I'm passionate about blending software development with entrepreneurship to create impactful solutions.
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,deno,react,spring,supabase,sqlite,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,react,deno,spring,flask,mysql,postgres,supabase)](https://skillicons.dev)
 
 <details>
   <summary><h2>GitHub Stats</h2></summary>
