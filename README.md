@@ -8,7 +8,7 @@ Computer Science student @ UChicago
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,deno,react,spring,supabase,sqlitem,mysql,postgres&perline=3)](https://skillicons.dev)
 
 ## 📊 Profile Stats <img src="https://komarev.com/ghpvc/?username=alexandroslekkas&label=Profile%20views&color=0e75b6&style=flat" alt="alexandroslekkas" />
 
