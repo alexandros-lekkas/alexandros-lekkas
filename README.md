@@ -4,4 +4,4 @@ As a first-year Computer Science student at the University of Chicago, I'm passi
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,deno,spring,flask,mysql,postgres,supabase)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandros-lekkas)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandros-lekkas&theme=dark)]
