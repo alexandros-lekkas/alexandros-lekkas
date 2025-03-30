@@ -1,7 +1,5 @@
 # Hi 👋 I'm Alexandros Lekkas
 
-https://alexandroslekkas.com
-
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,deno,spring,flask,mysql,postgres,supabase)](https://skillicons.dev)
 
 <div style="display: flex; align-items: center;">
