@@ -1,6 +1,6 @@
 # Hi 👋 I'm Alexandros Lekkas
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,c,react,nextjs,deno,bun,spring,flask,django,mysql,postgres,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,c,react,nextjs,deno,bun,spring,flask,django,mysql,postgres,docker,supabase)](https://skillicons.dev)
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=alexandros-lekkas&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180px" />
